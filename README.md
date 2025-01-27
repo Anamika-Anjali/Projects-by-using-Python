@@ -3,3 +3,4 @@
    
 2. UK-Bank-Customers : The data shows that England has the highest number of bank customers, particularly in the 36-37 age group. Male customers dominate this group and have higher account balances. Furthermore, most of these customers belong to the white-collar job category.
 
+3. Analysis of Indian Food : According to this project, most people prefer Western dishes, enjoy spicy vegetarian food, and order the main course the most.
